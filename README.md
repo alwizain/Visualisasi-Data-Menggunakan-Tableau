@@ -9,12 +9,12 @@
 Alwizain Almas Trigreisian adalah seorang sarjana yang telah menyelesaikan studi S1 Teknik Informatika pada Universitas Logistik dan Bisnis Internasional di Bandung. Kegiatan utama beliau saat ini adalah sebagai pengembang produk kecerdasan buatan dan sebagai data analis.
 
 - Icen Ectefania Mufrida <br>
-![](https://raw.githubusercontent.com/alwizain/Bukupedia/master/icenectefaniam.jpg)
+![](https://raw.githubusercontent.com/alwizain/Bukupedia/master/icenectefania.jpg)
 
 Icen Ectefania Mufrida adalah seorang mahasiswa Statistika pada Universitas Padjajaran di Jatinangor. Kegiatan utama beliau saat ini adalah sebagai mahasiswa tingkat akhir yang sedang berproses dalam menyelesaikan studi Sarjananya.
 
 - Muhamad Hafidudin <br>
-![](https://raw.githubusercontent.com/alwizain/Bukupedia/master/muhammadhafidudin.jpg)
+![](https://raw.githubusercontent.com/alwizain/Bukupedia/master/mhafidudin.jpg)
 
 Muhamad Hafidudin adalah seorang mahasiswa Teknik Informatika pada Universitas Alma Ata di Yogyakarta. Kegiatan utama beliau saat ini adalah sebagai mahasiswa tingkat akhir yang sedang berproses dalam menyelesaikan studi Sarjananya.
 
