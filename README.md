@@ -14,7 +14,7 @@ Alwizain Almas Trigreisian adalah seorang sarjana yang telah menyelesaikan studi
 Icen Ectefania Mufrida adalah seorang mahasiswa Statistika pada Universitas Padjajaran di Jatinangor. Kegiatan utama beliau saat ini adalah sebagai mahasiswa tingkat akhir yang sedang berproses dalam menyelesaikan studi Sarjananya.
 
 - Muhamad Hafidudin <br>
-![](https://raw.githubusercontent.com/alwizain/Bukupedia/master/mhafidudin.jpg)
+![](https://raw.githubusercontent.com/alwizain/Bukupedia/master/mhafidudin.jpeg)
 
 Muhamad Hafidudin adalah seorang mahasiswa Teknik Informatika pada Universitas Alma Ata di Yogyakarta. Kegiatan utama beliau saat ini adalah sebagai mahasiswa tingkat akhir yang sedang berproses dalam menyelesaikan studi Sarjananya.
 
